@@ -2,7 +2,7 @@
 study-hours-mini-ML-project
 
 ## DESCRIPTION and USAGE
-this project estimates the score based on working hours. inputfromconsole is the studying hour whose score is to be estimated. you can change it.the red point is the score of inputfromconsole variable.
+This project estimates the score based on working hours. inputfromconsole variavle is the studying hour whose score is to be estimated. you can change it. The red point is the score of inputfromconsole variable.
 
 ## STAGES 
 * 1 Reading Data
